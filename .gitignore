@@ -4,3 +4,4 @@ node_modules/
 public/
 .parcel-cache
 dist
+algorithms-exercises.code-workspace
